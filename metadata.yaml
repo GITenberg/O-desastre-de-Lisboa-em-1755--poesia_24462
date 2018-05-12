@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26509'
     url: http://www.gutenberg.org/2009/agents/26509
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24462#O-desastre-de-Lisboa-em-1755--poesia
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2008-01-31'
 gutenberg_type: Text
