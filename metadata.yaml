@@ -1,0 +1,33 @@
+_repo: O-desastre-de-Lisboa-em-1755--poesia_24462
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fonseca, Augusto de Oliveira Cardoso
+    birthdate: 1842
+    deathdate: 1917
+    gutenberg_agent_id: '26509'
+    url: http://www.gutenberg.org/2009/agents/26509
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24462'
+language: pt
+language_note: This ebook uses a 19th century spelling
+production_note: Produced by Pedro Saborano
+publication_note: "Lisboa:\r\nTypographia Castro Irmão\r\n31 Rua da Cruz de Pau 31\r\
+  \n1882"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Pombal, Sebastião José de Carvalho e Melo, Marquês de, 1699-1782'
+- !lcsh 'Portuguese poetry'
+- !lcsh 'Lisbon Earthquake, Portugal, 1755'
+title: 'O desastre de Lisboa em 1755: poesia'
+url: http://www.gutenberg.org/ebooks/24462
